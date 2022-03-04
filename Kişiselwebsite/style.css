@@ -1,0 +1,82 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background: url(rainbow-1467988_1920.jpg) center center fixed;
+    width: 1500px;
+}
+
+.content{
+    margin: auto;
+    margin-top: 3%;
+    width: 500px;
+    height: 600px;
+    position: relative;
+    background-color: dimgray;
+}
+
+.content .photos{
+    margin: auto;
+    width: 200px;
+    height: 200px;
+}
+
+.content .photos img{
+    width: 200px; 
+    margin-top: 5%;
+}
+
+.content .information{
+    margin: auto;
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    margin-top: 10%;    
+    color: blanchedalmond;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.content .information h1{
+    font-size: 45px;
+}
+
+.content .information h2{
+    font-size: 35px;
+}
+
+.content .information h3{
+    font-size: 25px;
+}
+
+.content .socialmedia{
+    margin: 100px;
+    width: 500px;
+    margin-top: 10%;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%
+}
+  
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+  
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
